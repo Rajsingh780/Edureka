@@ -1,0 +1,11 @@
+<html>
+    <body>
+<h1>Sample Form</h1>
+<form method="get">
+    Name : <input type="name" id="name"><br/><br/>
+    Password : <input type="password" id="pwd"><br/><br/>
+    Message : <textarea id="msg"></textarea><br/><br/>
+    Gender : <input type ="radio"> male<input type="radio">female<br/><br/>
+    skills: <input type="radio">java<input type="checkbox">python<input type="checkbox">c<br/><br/>
+<input type="submit"></form>
+</body>
