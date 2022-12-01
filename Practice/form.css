@@ -8,6 +8,7 @@ table {
 }
 th {
   text-align: left;
+  width: 15%;
   
 }
 td {
@@ -20,7 +21,8 @@ table,td,th{
     border-collapse: collapse;
 }
 th,td{
-width: 10px;
+    
+
 }
 .row{
     background-color: white;
